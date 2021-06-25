@@ -2,13 +2,6 @@
 
 ## I'm Mateusz.
 
-### 💻 &nbsp;About Me 
-
-- 🎓 &nbsp; Studying Computer Science at Warsaw University of Technology.
-- 🤔 &nbsp; Almost 2 years of experience in MERN Stack.
-
-
-
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
